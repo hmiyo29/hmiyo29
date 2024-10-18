@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Thank you for visiting my GitHub profile! 
 <!--
 **hmiyo29/hmiyo29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
